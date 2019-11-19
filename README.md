@@ -1,0 +1,2 @@
+# myCodingSchool
+education purpuses
